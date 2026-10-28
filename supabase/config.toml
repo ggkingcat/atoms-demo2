@@ -1,0 +1,2 @@
+[functions.generate]
+verify_jwt = false
